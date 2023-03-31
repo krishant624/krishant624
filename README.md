@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Krishant Rauinyar.
 - 👀 I’m interested in physics, mathematics, computer science and economics/finance.
-- 🌱 I’m currently learning F# and prolog for some reason.
+- 🌱 I’m currently learning react-native.
 - 💞️ I’m looking to collaborate when right time will come to gain other skills.
 - 📫 How to reach me, email should work.
 

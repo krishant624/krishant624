@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Krishant Rauinyar.<br>👀 I’m interested in physics, mathematics, computer science and economics/finance.<br>🌱 I’m currently learning react-native.<br>💞️ I’m looking to collaborate when right time will come to gain other skills.<br>📫 How to reach me, email should work.
+👋 Hi, I’m Krishant Rauinyar.<br>👀 I’m interested in physics, mathematics, computer science and economics/finance.<br>🌱 I’m currently learning jQuery.<br>💞️ I’m looking to collaborate when right time will come to gain other skills.<br>📫 How to reach me, email should work.
 
 
 ## 🌐 Socials:
